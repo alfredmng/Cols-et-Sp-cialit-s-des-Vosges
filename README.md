@@ -34,8 +34,7 @@ Bugs notoires :
   tout en le perdant s’il n’a jamais découvert certaines portions de la carte.
 
 - Lorsque vous avez complété une étape et que vous rechargez la page (ou que vous revenez de la page des secrets),
-  il est possible de recompléter l’étape, ou bien de refaire le mini-jeu s’il y en avait un.
-  Cela n’a aucun intérêt car la suite du jeu est déjà débloquée, mais est susceptible de provoquer certains dysfonctionnements légers et divers.
+  les markers des précédentes étapes ne sont pas affichés. C'est un choix volontaire de notre part pour éviter le fait que le joueur recommence les anciennes énigmes (et récupère à nouveau les objets dans son inventaire)
 
 - Les objets dans l'inventaire "outils" et "caractéristiques vélo" peuvent être dupliqués dans l'inventaire, sans raison encore déterminée.
   Les "mauvais" objets seront placés juste sous les "bons". Lors des validations d'évènements, n'utiliser que les "bons" objets
